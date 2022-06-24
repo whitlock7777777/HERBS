@@ -2,7 +2,9 @@ Dr. Menno P. Witter for providing anatomical support.
 
 Dr. Grethe M. Olsen for histological image data sharing and data registration confirmation anatomically contributions.
 
-Ida Välikangas Rautio for HERBS testing and histological image data sharing.
+Dr. Tuce Tombaz and Dr. Bartul Mimica for NP1.0 histological image data sharing.
+
+Ida Välikangas Rautio for HERBS testing and histological (NP1.0 and AAV expression) image data sharing.
 
 Pearl Saldanha for testing and cookbook writing.
 
